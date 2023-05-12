@@ -1,0 +1,35 @@
+[{"head": 'Google Search', 'type': 'instance of', 'tail': 'Search engine', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[0, 128]]}}},
+{'head': 'Deep learning', 'type': 'use', 'tail': 'Machine learning', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[124, 252]]}}},
+{'head': 'Deep learning', 'type': 'part of', 'tail': 'Machine learning', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[124, 252]]}}},
+{'head': 'Machine learning', 'type': 'subclass of', 'tail': 'Algorithm', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[248, 376]]}}}
+{'head': 'Relevance', "type": 'facet of', 'tail': 'Probability distribution', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[372, 500]]}}}
+{'head': 'Relevance', 'type': 'facet of', 'tail': 'Relevance', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[372, 500]]}}},
+{'head': 'Similarity measure', 'type': 'has effect', 'tail': 'Probability', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[496, 624]]}}},
+{'head': 'Similarity measure', 'type': 'use', 'tail': 'Word embedding', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[496, 624]]}}}
+{'head': 'Sparse matrix', 'type': 'subclass of', 'tail': 'Sparse matrix', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[620, 748]]}}}
+{'head': 'Cosine similarity', 'type': 'instance of', 'tail': 'Similarity measure', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[744, 872]]}}}
+{'head': 'Dot product', 'type': 'instance of', 'tail': 'Similarity measure', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[744, 872]]}}}
+{'head': 'Cosine similarity', 'type': 'subclass of', 'tail': 'Similarity measure', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[744, 872]]}}}
+{'head': 'Dot product', 'type': 'subclass of', 'tail': 'Similarity measure', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[744, 872]]}}}
+{'head': 'Algorithm', 'type': 'uses', 'tail': 'Probability mass function', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[1240, 1368]]}}}
+{'head': 'Elasticsearch', 'type': 'instance of', 'tail': 'Search engine', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[1736, 1864]]}}}
+{'head': 'Deep learning', 'type': 'subclass of', 'tail': 'Machine learning', 'meta': {'https://jxmo.io/posts/retrieval': {'spans': [[1984, 2112]]}}}
+{'head': 'Maximum likelihood estimation', 'type': 'instance of', 'tail': 'Estimation theory', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[0, 128]]}}}
+{'head': 'Probability density function', 'type': 'part of', 'tail': 'Probability theory', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[118, 246]]}}}
+{'head': 'Random variable', 'type': 'part of', 'tail': 'Probability theory', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[118, 246]]}}}
+{'head': 'Likelihood function', 'type': 'subclass of', 'tail': 'Probability', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[472, 600], [1180, 1308]]}}}
+{'head': 'Likelihood function', 'type': 'facet of', 'tail': 'Probability', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[472, 600]]}}}
+{'head': 'Bayes estimator', 'type': 'uses', 'tail': 'Likelihood function', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[472, 600]]}}}
+{'head': 'Maximum likelihood estimation', 'type': 'subclass of', 'tail': 'Likelihood function', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[590, 718]]}}}
+{'head': 'Likelihood function', 'type': 'part of', 'tail': 'Calculus', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[708, 836]]}}}
+{'head': 'Variance', 'type': 'part of', 'tail': 'Normal distribution', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[826, 954]]}}}
+{'head': 'Mean', 'type': 'opposite of', 'tail': 'Variance', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[826, 954]]}}}
+{'head': 'Variance', 'type': 'facet of', 'tail': 'Normal distribution', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[826, 954]]}}}
+{'head': 'Prior (ecclesiastical)', 'type': 'facet of', 'tail': 'Probability', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1062, 1190]]}}}
+{'head': 'Probability', 'type': 'subclass of', 'tail': 'Likelihood function', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1180, 1308], [1298, 1426]]}}}
+{'head': 'Probability', 'type': 'has part', 'tail': 'Likelihood function', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1180, 1308]]}}}
+{'head': 'Dew', 'type': 'facet of', 'tail': 'Rain', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1298, 1426]]}}}
+{'head': 'Normalizing constant', 'type': 'subclass of', 'tail': 'Normalizing constant', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1416, 1544]]}}}
+{'head': 'Normalizing constant', 'type': 'facet of', 'tail': 'Bayes estimator', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1416, 1544]]}}}
+{'head': 'Normalizing constant', 'type': 'instance of', 'tail': 'Normalizing constant', 'meta': {'https://towardsdatascience.com/maximum-likelihood-vs-bayesian-estimation-dd2eb4dfda8a': {'spans': [[1416, 1544]]}}}
+{'head': 'Anti-spam techniques', 'type': 'facet of', 'tail': 'Internet service provider', 'meta': {'https://www.fortinet.com/resources/cyberglossary/spam-filters': {'spans': [[238, 366]]}}}]
