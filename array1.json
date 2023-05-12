@@ -1,7 +1,0 @@
-[{"head": "Napoleon Bonaparte", "type": "date of birth", "tail": "15 August 1769"},
-  {"head": "Napoleon Bonaparte", "type": "date of death", "tail": "5 May 1821"},
-  {"head": "Napoleon Bonaparte", "type": "participant in", "tail": "French Revolution"},
-  {"head": "Napoleon Bonaparte", "type": "conflict", "tail": "Revolutionary Wars"},
-  {"head": "Revolutionary Wars", "type": "part of", "tail": "French Revolution"},
-  {"head": "French Revolution", "type": "participant", "tail": "Napoleon Bonaparte"},
-  {"head": "Revolutionary Wars", "type": "participant", "tail": "Napoleon Bonaparte"}]
